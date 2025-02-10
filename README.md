@@ -2,6 +2,8 @@
 
 This repository contains the development of the Attitude and Orbit Control System (AOCS) for the Space Station OS subsystem. The work focuses on designing and simulating foundational components of the AOCS, ensuring precise control of the space station's attitude and orbital dynamics.
 
+Final AOCS system will include:
+
 1. Full Dynamics of AOCS system (Attitude and Orbital)
 2. Control system for CMGs and Thrusters (Linear, Non-Linear and Optimal)
 3. Filter & Sensor Fusion (Kalman Filter, Extended Kalman Filter & Unscented Kalman Filter)
