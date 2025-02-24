@@ -1,0 +1,10 @@
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/uninstall.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/demo_aocs_control_model_uninstall.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/iss_aocs.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/test.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/edit_cache.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/rebuild_cache.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/list_install_components.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/install.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/install/local.dir
+/home/snkt/ssoc_ws/src/demo_aocs_control_model/build/CMakeFiles/install/strip.dir

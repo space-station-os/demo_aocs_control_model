@@ -2,9 +2,9 @@
 #include <fstream>
 #include <cmath>
 #include <Eigen/Dense>
-#include "pd_controller.hpp"
-#include "iss_dynamics.hpp"
-#include "L_p_func.h"
+#include "demo_aocs_control_model/pd_controller.hpp"
+#include "demo_aocs_control_model/iss_dynamics.hpp"
+#include "demo_aocs_control_model/L_p_func.h"
 
 Eigen::Vector3d curState;
 Eigen::Vector3d setPt;

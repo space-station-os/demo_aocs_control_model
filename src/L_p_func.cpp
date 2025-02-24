@@ -1,4 +1,4 @@
-#include "L_p_func.h"
+#include "demo_aocs_control_model/L_p_func.h"
 #include <cmath>
 
 // Function Definitions

@@ -1,4 +1,4 @@
-#include "pd_controller.hpp"
+#include "demo_aocs_control_model/pd_controller.hpp"
 
 pd_controller::pd_controller() {
     kp << 1, 1, 1;
