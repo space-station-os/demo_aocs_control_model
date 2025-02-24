@@ -34,10 +34,11 @@ Final AOCS system will include:
 mkdir build && cd build
 cmake ..
 make
-./iss_dynamics
+./iss_aocs
 
 # To vusulaise the dynamics
-python ../scripts/vis_data.py
+cd ..
+python scripts/vis_data.py
 ```
 
 ### Single-Gimballed CMG Model
