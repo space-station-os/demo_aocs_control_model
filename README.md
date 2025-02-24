@@ -32,6 +32,8 @@ make
 python ../scripts/vis_data.py
 ```
 
+### Single-Gimballed CMG Model
+![CMGs](assets/CMG.png)
 ## Model with constant Torque input and untuned linear PD controller from Single Gimballed CMGs
 ![Constant Torque Input](assets/const_inp_T.png)
 
