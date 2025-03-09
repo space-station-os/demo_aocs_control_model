@@ -51,5 +51,17 @@ python scripts/vis_data.py
 ### More details regarding equations:
 [Resources and Equations](resources/)
 
+### Consideration
+- Considered a static inertial frame
+- Considered a constant atmospheric model that don't change dynamically and have constant pressure and density
+- All the torques and dynamics are modelled wrt to body frame and LVLH frame (wherever required)
+  
+### TODO:
+- Add more perturbation like aerodynamic torque, magnetic torque, gaussian-noise, etc
+- Shift to ROS2 and visualise the output live as the solver solves the equations
+- Consider a more complex body shape and inertia parameters
+- Add a NMPC controller to adjust the attitude with CMGs and later on with thrusters
+- Add rotational inertial frame
+
 ## Future Work
 Subsequent phases will expand on nonlinear and adaptive control strategies, fault-tolerant mechanisms, and advanced functionalities aligned with real-world space station requirements. We'll also probably design a **reinforcement learning** approach for steering of variable Speed CMGs.
