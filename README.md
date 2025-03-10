@@ -62,6 +62,7 @@ python scripts/vis_data.py
 - Consider a more complex body shape and inertia parameters
 - Add a NMPC controller to adjust the attitude with CMGs and later on with thrusters
 - Add rotational inertial frame
+- Calculate root-locus and bode-plot to design compensator and tune PID controller
 
 ## Future Work
 Subsequent phases will expand on nonlinear and adaptive control strategies, fault-tolerant mechanisms, and advanced functionalities aligned with real-world space station requirements. We'll also probably design a **reinforcement learning** approach for steering of variable Speed CMGs.
